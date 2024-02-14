@@ -1,0 +1,25 @@
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+   
+    padding: 5px 1px;
+    margin: 25px 0;
+    text-align: center;
+    background-color: #242424;
+   
+  }
+  
+  .content {
+    padding: 5px;
+   
+    border-radius: 10px;
+    width: 75%;
+    
+    line-height: 14px;
+    font-size: 14px;
+    font-family: inherit
+    
+  }
+   
